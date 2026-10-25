@@ -3,3 +3,4 @@ volunteer.db-*
 .env
 node_modules/
 .DS_Store
+VIVA_AND_CODE_GUIDE.md
