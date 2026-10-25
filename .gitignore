@@ -1,0 +1,5 @@
+volunteer.db
+volunteer.db-*
+.env
+node_modules/
+.DS_Store

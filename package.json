@@ -1,0 +1,1 @@
+{"name":"smart-volunteer-management-fullstack","version":"1.0.0","private":true,"description":"CEP local full-stack volunteer management demo","scripts":{"start":"node server.js"},"engines":{"node":">=22.13.0"}}
